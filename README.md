@@ -52,4 +52,5 @@ Jupyter Notebook для анализа и отчетов.
 ```pip install -r requirements.txt```
 
 3. Запустить Jupyter Notebook:
+   
 ```jupyter notebook analyse_taxi.ipynb```
