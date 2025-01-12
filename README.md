@@ -40,3 +40,16 @@ Jupyter Notebook для анализа и отчетов.
 Вывод:
 
 На дальние поездки пользователи такси предпочитают больше Комфорт-класс, чем Эконом-класс.
+
+## Использование
+
+1. Клонировать репозиторий:
+
+```git clone https://github.com/Aom1ne05/taxi_analysis.git```
+
+2. Установить зависимости:
+
+```pip install -r requirements.txt```
+
+3. Запустить Jupyter Notebook:
+```jupyter notebook analyse_taxi.ipynb```
